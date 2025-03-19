@@ -1,6 +1,6 @@
 👋 Hi, I’m @RizTyagi
 👀 I’m interested in web development, machine learning, and exploring new technologies.
-🌱 I’m currently learning ASP .NET Core, React.js and deep learning techniques.
+🌱 I’m currently learning ASP .NET Core, Angular, React.js and deep learning techniques.
 💞️ I’m looking to collaborate on open-source projects, web apps, and machine learning research.
 📫 How to reach me: You can reach me via email at rizwantyagiu@gmail.com or on LinkedIn (www.linkedin.com/in/rizwan-tyagi-8420919a).
 😄 Pronouns: He/Him
